@@ -5,7 +5,7 @@ TotemDuck   - code for custom Mama duck role using ClusterDuck Protocol
 
 ## Getting started with ClusterDuck Radios
 
-https://github.com/Call-for-Code/ClusterDuck-Protocol
+https://github.com/Call-for-Code/ClusterDuck-Protocol/wiki
 
 ## Getting started with the schematics
     git clone --branch kicad-5 https://github.com/kitspace/kicad_footprints
