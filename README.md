@@ -3,11 +3,11 @@
 el_wire - Kicad 5 Project Files for Totem El Wire driver
 TotemDuck - code for custom Mama duck role using ClusterDuck Protocol
 
-#### Getting started with ClusterDuck Radios
+## Getting started with ClusterDuck Radios
 
 https://github.com/Call-for-Code/ClusterDuck-Protocol
 
-#### Getting started with the schematics
+## Getting started with the schematics
     git clone --branch kicad-5 https://github.com/kitspace/kicad_footprints
     cd kicad_footprints && ./init
 
