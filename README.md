@@ -1,7 +1,7 @@
 # EF2022 Repo 
 
-el_wire - Kicad 5 Project Files for Totem El Wire driver  
-TotemDuck - code for custom Mama duck role using ClusterDuck Protocol
+el_wire     - Kicad 5 Project Files for Totem El Wire driver  
+TotemDuck   - code for custom Mama duck role using ClusterDuck Protocol
 
 ## Getting started with ClusterDuck Radios
 
